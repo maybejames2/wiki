@@ -1,7 +1,5 @@
 # Register a domain with a registrar
 
-* http://register.dot-bit.org — payments accepted: BTC (Bitcoins)
-* http://getbit.eu — payments accepted: BTC (Bitcoins)
 * http://dotbit.me — payments accepted: BTC (Bitcoins), NMC (Namecoins) or LTC (Litecoins)
 * https://domaincoin.net — payments accepted: BTC (Bitcoins)
 
